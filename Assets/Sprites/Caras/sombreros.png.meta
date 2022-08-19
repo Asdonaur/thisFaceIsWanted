@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 4531900ca8c9c4f4ba5730ce1ea5fb10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8499359972367516938
+    second: sombreros_0
+  - first:
+      213: 5952462055215770622
+    second: sombreros_1
+  - first:
+      213: -8187437198961739960
+    second: sombreros_2
+  - first:
+      213: -8829060169942225262
+    second: sombreros_3
+  - first:
+      213: -9215269019165694957
+    second: sombreros_4
+  - first:
+      213: 3173764313764222909
+    second: empty
+  - first:
+      213: -2717571506782074623
+    second: sombreros_6
+  - first:
+      213: -2505387033528785073
+    second: sombreros_7
+  - first:
+      213: -1156558316089857030
+    second: sombreros_8
+  - first:
+      213: 4126952278262185077
+    second: sombreros_9
+  - first:
+      213: -7203899207471135023
+    second: sombreros_10
+  - first:
+      213: -6728204714207180558
+    second: sombreros_11
+  - first:
+      213: -4985251396754774696
+    second: sombreros_12
+  - first:
+      213: 3893734732594880992
+    second: sombreros_13
+  - first:
+      213: 7357475524407147850
+    second: sombreros_14
+  - first:
+      213: 9163073877989715137
+    second: sombreros_15
+  - first:
+      213: -4997194001955239899
+    second: sombreros_16
+  - first:
+      213: 5800281653459077869
+    second: sombreros_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sombreros_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1874
+        width: 604
+        height: 663
+      alignment: 9
+      pivot: {x: 0.4935677, y: 0.35057378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c3230ddac3f570800000000000000
+      internalID: 8499359972367516938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1868
+        width: 508
+        height: 604
+      alignment: 9
+      pivot: {x: 0.50764763, y: 0.40351593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba024a3b46b9250800000000000000
+      internalID: 5952462055215770622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_2
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1861
+        width: 768
+        height: 767
+      alignment: 9
+      pivot: {x: 0.49071804, y: 0.30482373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f0171f31606e80800000000000000
+      internalID: -8187437198961739960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_3
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1856
+        width: 506
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2b06cd80e87580800000000000000
+      internalID: -8829060169942225262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_4
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1802
+        width: 507
+        height: 565
+      alignment: 9
+      pivot: {x: 0.49648428, y: 0.54100484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31467f2d6a9cc1080800000000000000
+      internalID: -9215269019165694957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 600
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34847847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1090886ec1f394ad0800000000000000
+      internalID: -2717571506782074623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_7
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1000
+        width: 589
+        height: 671
+      alignment: 9
+      pivot: {x: 0.5073673, y: 0.35449383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a5a164c31b3dd0800000000000000
+      internalID: -2505387033528785073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_8
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 992
+        width: 599
+        height: 719
+      alignment: 9
+      pivot: {x: 0.49637783, y: 0.3279963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba077d65413ffe0800000000000000
+      internalID: -1156558316089857030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_9
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 992
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c7ec64b31e54930800000000000000
+      internalID: 4126952278262185077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_10
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 992
+        width: 562
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d607f4b6db960c90800000000000000
+      internalID: -7203899207471135023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 628
+        height: 824
+      alignment: 9
+      pivot: {x: 0.49049124, y: 0.29225224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85569648444d0dab0800000000000000
+      internalID: -4985251396754774696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 10
+        width: 626
+        height: 746
+      alignment: 9
+      pivot: {x: 0.50317967, y: 0.31855908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e12be10c13590630800000000000000
+      internalID: 3893734732594880992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 506
+        height: 914
+      alignment: 9
+      pivot: {x: 0.496066, y: 0.27133048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d3be302010b1660800000000000000
+      internalID: 7357475524407147850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_15
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 0
+        width: 506
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5039337, y: 0.49208567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccec3cd427c92f70800000000000000
+      internalID: 9163073877989715137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_16
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3
+        width: 507
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528cebf088666aab0800000000000000
+      internalID: -4997194001955239899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombreros_17
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 0
+        width: 505
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deac4afbe6dbe7050800000000000000
+      internalID: 5800281653459077869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 1986
+        width: 387
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75abaf3d97b0c20800000000000000
+      internalID: 3173764313764222909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
